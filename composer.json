@@ -1,0 +1,9 @@
+{
+    "name": "klarna/m1-klarna-payments",
+    "description": "Magento 1 Klarna Payments",
+    "type": "magento-module",
+    "license": "MIT License",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
